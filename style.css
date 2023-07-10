@@ -1,0 +1,101 @@
+.Face{
+    height: 250px;
+    width: 250px;
+    background-color: pink;
+    border-radius:300px ;
+    border-color: solid black;
+    position: relative;
+
+}
+.right_eye{
+    height: 55px;
+    width: 55px;
+    background-color:white ;
+    border-radius: 100px;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+
+}
+.left_eye{
+    height: 55px;
+    width: 55px;
+    background-color: white;
+    border-radius: 100px;
+    position: absolute;
+    top: 60px;
+    right: 50px;
+    
+}
+.righteyeball{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100px;
+    position: absolute;
+    top: 72px;
+    left: 60px;
+}
+.lefteyeball{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100px;
+    position: absolute;
+    top: 72px;
+    right: 60px;
+}
+.Mouth{
+    height:50px ;
+    width: 120px;
+    background-color: red;
+    border-radius:  40px 40px 40px 40px;
+    position: absolute;
+    top: 150px;
+    left: 68px;
+    border-color: solid black;
+}
+.hole1{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100px;
+    top: 11px;
+    left: 16px;
+    position: absolute;
+}
+.hole2{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100px;
+    top: 11px;
+    right: 16px;
+    position: absolute;
+}
+.Container{
+    margin-top: 200px;
+    margin-left: 500px;
+}
+.ear1{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-radius: 100px;
+    top: 150px;
+    left: 500px;
+    position: absolute;
+
+}
+.ear2{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    border-radius: 100px;
+    top: 150px;
+    right: 600px;
+    position: absolute;
+
+}
+
+
